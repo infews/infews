@@ -4,7 +4,8 @@
   - Continuous Delivery (see [my blog](https://dwf.bigpencil.net))
   - Ruby
   - Barbeque
-- :construction_worker: I'm looking for a job leading software teams that want to improve their CD chops
+- I'm a Director of Engineering at [Fountain](https://get.fountain.com) ⛲
+  - Yes, we're hiring!
 - 📫 How to reach me
   - [dwfrank@gmail.com](mailto:dwfrank@gmail.com)
   - @dwfrank most other places
