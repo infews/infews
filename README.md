@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Davis W. Frank - @infews here on GitHub
   - [LinkedIn profile](https://www.linkedin.com/in/daviswfrank/)
 - 👀 I’m interested in
-  - Continuous Delivery (see [my blog](https://dwf.bigpencil.net))
+  - Continuous Delivery (see [my blog](https://dwf.bigpencil.net)) and making your team go fast!
+  - Test Driven Development
   - Ruby
-  - Barbeque
+  - Barbecue
+  - Bourbon
 - I'm a Director of Engineering at [Fountain](https://get.fountain.com) ⛲
   - Yes, we're hiring!
 - 📫 How to reach me
