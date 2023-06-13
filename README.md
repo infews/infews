@@ -6,8 +6,6 @@
   - Ruby
   - Barbecue
   - Bourbon
-- I'm a Director of Engineering at [Fountain](https://get.fountain.com) ⛲
-  - Yes, we're hiring!
 - 📫 How to reach me
   - [dwfrank@gmail.com](mailto:dwfrank@gmail.com)
   - @dwfrank most other places
