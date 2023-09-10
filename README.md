@@ -8,7 +8,8 @@
   - Bourbon
 - 📫 How to reach me
   - [dwfrank@gmail.com](mailto:dwfrank@gmail.com)
-  - @dwfrank most other places
+  - [@dwfrank](https://ruby.social/@dwfrank) @ Ruby.social (Mastodon)
+  - [LinkedIn](https://www.linkedin.com/in/daviswfrank/)
 
 <!---
 infews/infews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
